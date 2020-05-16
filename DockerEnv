@@ -1,0 +1,4 @@
+DATABASE_HOST=docker.for.mac.localhost
+DATABASE_PORT=3306
+DATABASE_USER=stub
+DATABASE_PASSWORD=stub
